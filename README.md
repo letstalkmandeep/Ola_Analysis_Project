@@ -119,10 +119,6 @@ This page focuses on the **volume and status of rides over time**.
 
 - Ride volume over time
 - Booking status distribution
-- Successful bookings
-- Driver cancellations
-- Customer cancellations
-- Driver-not-found bookings
 - Daily booking movement
 
 ### Key Observation
@@ -283,94 +279,9 @@ The SQL scripts use views to organise several of the analytical queries, includi
 
 ---
 
-# 💡 Key Findings
-
-## 1. Weekday Demand Appears Stronger
-
-Booking volume remains comparatively stable across weekdays but declines over the weekend.
-
-**Possible interpretation:**  
-The dataset suggests that a significant portion of demand may be associated with weekday travel such as office or business-related commuting.
-
----
-
-## 2. Prime Sedan Leads Vehicle Contribution
-
-Prime Sedan emerges as the strongest vehicle category in terms of booking contribution.
-
-**Business implication:**  
-This vehicle category deserves closer attention when analysing availability, pricing and customer demand.
-
----
-
-## 3. Cash Dominates Payment Behaviour
-
-Cash contributes approximately **₹19.2M** of booking value.
-
-**Business implication:**  
-There is significant scope to understand why customers prefer cash and whether digital payment adoption can be increased.
-
----
-
-## 4. Driver Cancellations Need Attention
-
-Driver-side cancellations represent a major component of the overall cancellation rate.
-
-Personal and car-related problems are among the key reasons.
-
-**Business implication:**  
-Improving driver availability, vehicle readiness and cancellation controls could potentially reduce lost bookings.
-
----
-
-## 5. Ratings Remain Relatively Stable
-
-Average customer and driver ratings remain around **4.0** across vehicle types.
-
-**Business implication:**  
-There is no major rating imbalance visible across the vehicle categories in this dataset, although individual rating distributions could be investigated further.
-
----
-
-# 🚀 Key Analysis & Business Recommendations
-
-> **This section is intentionally left open for deeper business analysis and recommendations.**
-
-The final analysis should go beyond simply describing the dashboard and answer:
-
 ### 🔍 Key Analysis
 
-- What are the biggest operational problems?
-- Which trends have the strongest business impact?
-- Which vehicle/payment/customer segments deserve attention?
-- What could be causing the high cancellation rate?
-- Which findings are actionable rather than merely descriptive?
-
 ### 💼 Business Recommendations
-
-_Add final recommendations here based on the analysis._
-
-```text
-Recommendation 1
-→ Problem:
-→ Evidence:
-→ Proposed Action:
-→ Expected Business Impact:
-
-
-Recommendation 2
-→ Problem:
-→ Evidence:
-→ Proposed Action:
-→ Expected Business Impact:
-
-
-Recommendation 3
-→ Problem:
-→ Evidence:
-→ Proposed Action:
-→ Expected Business Impact:
-```
 
 ---
 
@@ -396,39 +307,6 @@ Ola-Analytical-Dashboard/
 
 ---
 
-# 📂 Project Files
-
-| Folder/File | Purpose |
-|---|---|
-| `dataset/bookings.csv` | Cleaned and structured booking dataset |
-| `scripts/init_database.sql` | SQL database setup |
-| `scripts/questions_raw.sql` | SQL business questions and queries |
-| `scripts/answers_summary.sql` | SQL analysis summary |
-| `dashboard/Ola.pbix` | Interactive Power BI dashboard |
-| `visuals/Ola_dashboard.pdf` | Static dashboard preview |
-
----
-
-# 📊 Project Metrics at a Glance
-
-```text
-╔══════════════════════════════════════════╗
-║          OLA RIDE ANALYTICS              ║
-╠══════════════════════════════════════════╣
-║                                          ║
-║  Total Bookings             103,024      ║
-║  Booking Value              ₹35.08M      ║
-║  Cancellation Rate            37.91%     ║
-║  Avg Customer Rating             4.00    ║
-║                                          ║
-║  Leading Vehicle           Prime Sedan   ║
-║  Leading Payment Method         Cash     ║
-║                                          ║
-╚══════════════════════════════════════════╝
-```
-
----
-
 # 🧠 What This Project Demonstrates
 
 This project demonstrates practical experience in:
@@ -444,19 +322,6 @@ This project demonstrates practical experience in:
 - Building interactive Power BI dashboards
 - Designing KPI-driven reports
 - Translating data into business insights
-
----
-
-# 🔗 Project Navigation
-
-| Resource | Link |
-|---|---|
-| 📊 Power BI Dashboard | [Open Ola.pbix](./dashboard/Ola.pbix) |
-| 📄 Dashboard PDF | [View Dashboard](./visuals/Ola_dashboard.pdf) |
-| 🗃️ Dataset | [bookings.csv](./dataset/bookings.csv) |
-| 🧮 SQL Questions | [questions_raw.sql](./scripts/questions_raw.sql) |
-| 🏗️ SQL Setup | [init_database.sql](./scripts/init_database.sql) |
-| 📑 SQL Answers | [answers_summary.sql](./scripts/answers_summary.sql) |
 
 ---
 
