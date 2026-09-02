@@ -70,6 +70,10 @@ The main goal was to transform these raw data into valuable insights for decisio
 
 The Power BI dashboard consists of **6 analytical pages**, moving from a high-level business snapshot to detailed operational analysis.
 
+<p align="center">
+  <img width="1747" height="977" alt="image" src="https://github.com/user-attachments/assets/0bee00c3-343d-47b7-a1c6-ff651f07628c" />
+</p>
+
 ### [📄 View Dashboard PDF](./visuals/Ola_dashboard.pdf)
 
 A PDF version of the completed dashboard is also included for quick reference.
