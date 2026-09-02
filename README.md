@@ -24,20 +24,16 @@ metrics and help identify the major drivers behind ride performance.
 
 <p align="left">
 
-<a href="https://powerbi.microsoft.com/">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-</a>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-</a>
+<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query"/>
 
-<a href="https://learn.microsoft.com/en-us/power-query/">
-  <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query"/>
-</a>
+<img src="https://img.shields.io/badge/DAX-1F4E79?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX"/>
 
-<a href="https://learn.microsoft.com/en-us/dax/">
-  <img src="https://img.shields.io/badge/DAX-1F4E79?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX"/>
-</a>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
 
 </p>
