@@ -1,10 +1,6 @@
 # 🚕 Ola Ride Analytics Dashboard
 
-> **End-to-End Data Analytics Project | Excel • SQL • Power BI**
-
-An end-to-end analytics project built around Ola ride-booking data to understand **booking performance, vehicle contribution, revenue, cancellations, customer behaviour and service ratings**.
-
-The project follows a complete analytical workflow — from cleaning and structuring raw data to SQL-based analysis and finally building an interactive Power BI dashboard.
+This project analyzes Ola ride-booking data for the month of July to understand booking trends, ride performance, cancellations, customer behavior, payment methods, and overall booking value. I first used SQL to explore the data and answer key business questions, and then built an interactive Power BI dashboard to present the findings. The project also highlights the major problems identified from the analysis and provides practical recommendations based on the insights.
 
 > ⚠️ **Dataset Disclaimer:** The dataset used in this project is dummy data created for learning, portfolio and analytical demonstration purposes. It does not represent actual Ola business data.
 
@@ -37,45 +33,22 @@ The analysis was performed in three major stages:
 2. **SQL** → Loaded the prepared data and answered business-oriented questions.
 3. **Power BI** → Built a fully interactive six-page dashboard to visualise the findings.
 
-The final dashboard focuses on five major business areas:
-
-**Bookings → Vehicles → Revenue → Cancellations → Ratings**
-
 ---
 
 # 🎯 Business Problem
 
-A ride-hailing platform generates a large amount of booking data every day. However, raw booking records alone do not clearly explain what is happening within the business.
+A ride-hailing application creates a large number of booking information on a daily basis. Nevertheless, only the booking records cannot reveal how things are going inside the company.
 
-This project attempts to answer questions such as:
+This project seeks to find answers to such questions as:
 
-- How are ride bookings performing over time?
-- Which booking statuses contribute most to the overall volume?
-- Which vehicle types generate the highest booking value?
-- How far do customers travel across different vehicle categories?
-- Which payment method contributes the most booking value?
-- Who are the most frequent customers?
-- Why are customers and drivers cancelling rides?
-- How do customer and driver ratings vary across vehicle types?
-
-The objective was to convert these raw records into **clear, decision-oriented insights**.
-
----
-
-# 🎯 Objectives
-
-The project was designed to:
-
-- Clean and structure the raw booking dataset.
-- Perform exploratory analysis using SQL.
-- Analyse booking volume and booking status.
-- Compare performance across vehicle types.
-- Analyse booking value and payment methods.
-- Identify top customers.
-- Understand customer and driver cancellation patterns.
-- Compare customer and driver ratings.
-- Build an interactive Power BI dashboard.
-- Translate analytical findings into potential business recommendations.
+What is the performance of ride bookings over time?
+What type of vehicles brings the most booking revenue?
+How much distance do customers travel with various types of vehicles?
+What payment form brings the most booking revenue?
+Who are the most loyal customers?
+What reasons make customers and drivers cancel rides?
+What are the differences between customer and driver ratings with various types of vehicles?
+The main goal was to transform these raw data into valuable insights for decision making.
 
 ---
 
@@ -84,8 +57,6 @@ The project was designed to:
 ### Data Preparation
 - **Microsoft Excel**
 - Data Cleaning
-- Data Structuring
-- Data Preparation
 
 ### Data Analysis
 - **SQL**
@@ -111,56 +82,9 @@ The project was designed to:
 
 ---
 
-# 🔄 Project Workflow
-
-```text
-                    RAW DUMMY DATA
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │      EXCEL      │
-                 │                 │
-                 │ Data Cleaning   │
-                 │ Data Structuring│
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │       SQL       │
-                 │                 │
-                 │ Business        │
-                 │ Questions       │
-                 │ Analysis        │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │    POWER BI     │
-                 │                 │
-                 │ Data Analysis   │
-                 │ Visualisation   │
-                 │ Dashboard       │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ BUSINESS        │
-                 │ INSIGHTS &      │
-                 │ RECOMMENDATIONS │
-                 └─────────────────┘
-```
-
----
-
 # 📈 Dashboard Overview
 
 The Power BI dashboard consists of **6 analytical pages**, moving from a high-level business snapshot to detailed operational analysis.
-
-## 🔗 Dashboard Files
-
-### [📊 Open Power BI Dashboard](./dashboard/Ola.pbix)
-
-Open the `.pbix` file using **Microsoft Power BI Desktop** to explore the interactive dashboard.
 
 ### [📄 View Dashboard PDF](./visuals/Ola_dashboard.pdf)
 
