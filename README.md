@@ -4,6 +4,10 @@
 
 This project analyzes Ola ride-booking data for the month of July to understand booking trends, ride performance, cancellations, customer behavior, payment methods, and overall booking value. I first used SQL to explore the data and answer key business questions, and then built an interactive Power BI dashboard to present the findings. The project also highlights the major problems identified from the analysis and provides practical recommendations based on the insights.
 
+<img src="visuals/Ola_dashboard.pdf" 
+     alt="Ola Ride Analytics Dashboard" 
+     width="100%">
+
 ---
 
 ## 🎯 Business Problem
@@ -30,10 +34,34 @@ metrics and help identify the major drivers behind ride performance.
 
 <img src="https://img.shields.io/badge/DAX-1F4E79?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX"/>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
 
 </p>
+
+---
+
+## 🔄 Project Workflow
+
+Raw Dataset
+↓
+Data Cleaning
+↓---
+
+## 🔄 Project Workflow
+
+Raw Dataset
+↓
+Data Cleaning
+↓
+SQL Queries
+↓
+Dashboard Development
+↓
+Business Analysis
+↓
+Insights & Recommendations
+
+---
+
