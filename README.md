@@ -44,13 +44,7 @@ metrics and help identify the major drivers behind ride performance.
 
 ## 🔄 Project Workflow
 
-Raw Dataset
-↓
-Data Cleaning
-↓---
-
-## 🔄 Project Workflow
-
+```markdown
 Raw Dataset
 ↓
 Data Cleaning
@@ -62,6 +56,6 @@ Dashboard Development
 Business Analysis
 ↓
 Insights & Recommendations
-
+```
 ---
 
