@@ -31,6 +31,7 @@ This project seeks to find answers to such questions as:
 - Who are the most loyal customers?
 - What reasons make customers and drivers cancel rides?
 - What are the differences between customer and driver ratings with various types of vehicles?
+
 The main goal was to transform these raw data into valuable insights for decision making.
 
 ---
