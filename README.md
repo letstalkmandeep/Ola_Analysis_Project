@@ -24,14 +24,14 @@ A ride-hailing application creates a large number of booking information on a da
 
 This project seeks to find answers to such questions as:
 
-What is the performance of ride bookings over time?
-What type of vehicles brings the most booking revenue?
-How much distance do customers travel with various types of vehicles?
-What payment form brings the most booking revenue?
-Who are the most loyal customers?
-What reasons make customers and drivers cancel rides?
-What are the differences between customer and driver ratings with various types of vehicles?
-The main goal was to transform these raw data into valuable insights for decision making.
+- What is the performance of ride bookings over time?
+- What type of vehicles brings the most booking revenue?
+- How much distance do customers travel with various types of vehicles?
+- What payment form brings the most booking revenue?
+- Who are the most loyal customers?
+- What reasons make customers and drivers cancel rides?
+- What are the differences between customer and driver ratings with various types of vehicles?
+- The main goal was to transform these raw data into valuable insights for decision making.
 
 ---
 
