@@ -289,7 +289,7 @@ Ola could focus on reducing booking failures by:
 **Expected Impact:**  
 Reducing unsuccessful bookings can help Ola **capture more existing demand, improve ride fulfilment, reduce customer frustration, and potentially increase booking revenue.**
 
---
+---
 
 ## Problem 2 — High Driver Cancellation
 
@@ -325,6 +325,8 @@ Ola could focus on the following actions:
 **Expected Impact**
 
 A focused cancellation-reduction program could help Ola **increase successful rides, reduce lost booking opportunities, improve driver availability, and provide a more reliable customer experience.**
+
+> More problems like this can be analyzed such as Customer Retention, Customer Cancellation, Driver Availability, Revenue Optimization, etc. Since the project is prepared on dummy data therefore, I have presented only 2 major problems which can be solved using this project and what all steps that can be taken to solve those problems
 
 ---
 
