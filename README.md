@@ -267,7 +267,6 @@ The SQL scripts use views to organise several of the analytical queries, includi
 
 ## Problem 1 — High Booking Failure Rate
 
-**Problem:**  
 A significant proportion of Ola bookings do not result in successful rides, potentially leading to **lost revenue and a poor customer experience**.
 
 **Dashboard Evidence:**
@@ -282,8 +281,8 @@ Ola could focus on reducing booking failures by:
 
 - 📍 Identifying **areas and time periods** with consistently high failed bookings.
 - 🚗 Increasing **driver availability during peak-demand periods**.
-- 🎯 Improving **driver allocation and matching** to reduce unfulfilled requests.
-- 💰 Introducing **targeted driver incentives** in high-demand or low-availability areas.
+- 🎯 Improving **driver allocation and matching** to reduce unfulfilled requests. Sometimes driver from distance more then 2km are also able to pick the ride leads to increase in time to reach the destination which leads to customer dissatisfaction. 
+- 💰 Introducing **targeted driver incentives** in high-demand or low-availability areas. Such as lesser commission on selected areas.
 - 🔎 Analysing **driver-not-found patterns** to identify supply-side gaps.
 - 📊 Monitoring **cancellation and booking failure rates on a daily basis** to detect operational issues early.
 
