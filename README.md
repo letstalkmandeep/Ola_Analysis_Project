@@ -289,6 +289,43 @@ Ola could focus on reducing booking failures by:
 **Expected Impact:**  
 Reducing unsuccessful bookings can help Ola **capture more existing demand, improve ride fulfilment, reduce customer frustration, and potentially increase booking revenue.**
 
+--
+
+## Problem 2 — High Driver Cancellation
+
+**Problem:**  
+Driver cancellations are a major contributor to unsuccessful bookings, with **18.43K bookings cancelled by drivers**. This can negatively impact both **revenue and customer experience**.
+
+**Dashboard Evidence**
+
+> **18.43K bookings cancelled by drivers**
+
+The dashboard also highlights several reasons behind these cancellations, including:
+
+- **Personal & car-related issues**
+- **Customer-related issues**
+- **Other specified reasons**
+- **More-than-permitted-distance-related issues**
+
+**Business Question**
+
+> **Why are drivers cancelling such a large number of bookings, and how can Ola reduce avoidable driver cancellations?**
+
+### 💡 Future Plan — Driver Cancellation Reduction Program
+
+Ola could focus on the following actions:
+
+- 🎯 Identify drivers with **unusually high cancellation rates** and monitor their behaviour.
+- 📍 Analyse driver cancellations by **time and location** to identify operational hotspots.
+- 💰 Provide **targeted incentives during peak-demand periods** to improve driver availability.
+- 🗺️ Provide clearer **ride-distance and route information before acceptance** to reduce distance-related cancellations.
+- ⚠️ Introduce appropriate measures for **repeated or unjustified cancellations**.
+- 🛠️ Strengthen **driver support** for vehicle-related and personal issues that frequently lead to cancellations.
+
+**Expected Impact**
+
+A focused cancellation-reduction program could help Ola **increase successful rides, reduce lost booking opportunities, improve driver availability, and provide a more reliable customer experience.**
+
 ---
 
 # 📁 Repository Structure
