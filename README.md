@@ -6,23 +6,6 @@ This project analyzes Ola ride-booking data for the month of July to understand 
 
 ---
 
-## 📌 Table of Contents
-
-- [Project Overview](#-project-overview)
-- [Business Problem](#-business-problem)
-- [Objectives](#-objectives)
-- [Tools & Technologies](#-tools--technologies)
-- [Project Workflow](#-project-workflow)
-- [Dashboard Overview](#-dashboard-overview)
-- [Key Highlights](#-key-highlights)
-- [SQL Analysis](#-sql-analysis)
-- [Key Findings](#-key-findings)
-- [Business Recommendations](#-business-recommendations)
-- [Repository Structure](#-repository-structure)
-- [Project Takeaway](#-project-takeaway)
-
----
-
 # 📊 Project Overview
 
 This project analyses Ola ride-booking data for the month of **July 2024**.
