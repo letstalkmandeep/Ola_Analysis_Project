@@ -19,3 +19,25 @@ This dashboard was developed to provide a consolidated view of these
 metrics and help identify the major drivers behind ride performance.
 
 ---
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+
+<a href="https://powerbi.microsoft.com/">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</a>
+
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/power-query/">
+  <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/dax/">
+  <img src="https://img.shields.io/badge/DAX-1F4E79?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX"/>
+</a>
+
+</p>
