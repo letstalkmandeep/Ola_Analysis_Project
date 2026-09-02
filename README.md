@@ -5,9 +5,7 @@
 This project analyzes Ola ride-booking data for the month of July to understand booking trends, ride performance, cancellations, customer behavior, payment methods, and overall booking value. I first used SQL to explore the data and answer key business questions, and then built an interactive Power BI dashboard to present the findings. The project also highlights the major problems identified from the analysis and provides practical recommendations based on the insights.
 
 <p align="center">
-  <img src="visuals/Ola_dashboard.pdf" 
-       alt="Ola Ride Analytics Dashboard"
-       width="100%">
+<img width="1742" height="976" alt="image" src="https://github.com/user-attachments/assets/e91d8cf1-5adb-4a20-8195-12d696fa2d5e" />
 </p>
 
 ---
